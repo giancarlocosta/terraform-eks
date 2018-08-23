@@ -1,6 +1,6 @@
 # terraform-aws-eks
 
-This module is a copied and **modified/improved/customized** version of
+This module is a **modified/improved/customized** version of
 [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks).
 
 The module is built following guidelines from:
